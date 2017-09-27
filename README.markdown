@@ -26,6 +26,7 @@ and Boberg (2006) in their `Atlas of North American English.'
 		`python classify.py`   
 
 ## Dependencies
+	- Test [GitHub Pages](https://pages.github.com/)
 	- [numpy](http://www.numpy.org/)
 	- [scipy](https://www.scipy.org/)
 	- [scikit-learn](http://scikit-learn.org/stable/)
