@@ -2,13 +2,14 @@
 Automatic dialect classification system for American English.
 
 Classifiers speakers into one of five dialect regions:
-	-see https://u.osu.edu/nspcorpus/
 
 1. Middle Atlantic
 2. New England
 3. Inland North
 4. Southern
 5. Western
+
+![American Dialects](dialects.jpg?raw=true)
 
 These regions are based on the dialect regions described by Labov, Ash, 
 and Boberg (2006) in their `Atlas of North American English.' 
