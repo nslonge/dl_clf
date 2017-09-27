@@ -26,14 +26,12 @@ and Boberg (2006) in their `Atlas of North American English.'
 		`python classify.py`   
 
 ## Dependencies
-dl_clf has the following depepdencies:
-
-	- [numpy](http://www.numpy.org/)
-	- [scipy](https://www.scipy.org/)
-	- [scikit-learn](http://scikit-learn.org/stable/)
-	- [pydub](https://github.com/jiaaro/pydub)
-	- [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
-	- [python_speech_features](https://github.com/jameslyons/python_speech_features)
+- [numpy](http://www.numpy.org/)
+- [scipy](https://www.scipy.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [pydub](https://github.com/jiaaro/pydub)
+- [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
+- [python_speech_features](https://github.com/jameslyons/python_speech_features)
 
 ## System Design
 The system utilizes the ACCDIST dialect identification metric 
