@@ -1,4 +1,4 @@
-#dialect_clf
+# dialect_clf
 Automatic dialect classification system for American English.
 
 Classifiers speakers into one of five dialect regions:
@@ -24,7 +24,7 @@ and Boberg (2006) in their `Atlas of North American English.'
 
 		`python classify.py`   
 
-##Dependencies
+## Dependencies
 	- [numpy](http://www.numpy.org/)
 	- [scipy](https://www.scipy.org/)
 	- [scikit-learn](http://scikit-learn.org/stable/)
@@ -32,7 +32,7 @@ and Boberg (2006) in their `Atlas of North American English.'
 	- [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)
 	- [python_speech_features](https://github.com/jameslyons/python_speech_features)
 
-##System Design
+## System Design
 The system utilizes the ACCDIST dialect identification metric 
 (Huckvale 2007) to associate speakers with a unique vector representing
 their particular dialect. Once these vectors are computed, the system builds
