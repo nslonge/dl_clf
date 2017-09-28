@@ -1,7 +1,7 @@
 # dl_clf
 Automatic dialect classification system for American English.
 
-Classifiers speakers into one of five dialect regions:
+Records user pronouncing 25 words, then classifies their dialect into one of five dialect regions:
 
 1. Middle Atlantic
 2. New England
@@ -19,6 +19,7 @@ These regions are based on the dialect regions described by Labov, Ash, and Bobe
    to test accuracies.                                                      
  
 		`python classify.py -t`                                                  
+
 2. Speaker input mode: prompt user to record themselves, then classifies 
    their dialect.                                               
 
