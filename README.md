@@ -27,6 +27,7 @@ These regions are based on the dialect regions described by Labov, Ash, and Bobe
 
 ## Dependencies
 - [numpy](http://www.numpy.org/)
+- [HTK](http://htk.eng.cam.ac.uk/)
 - [scipy](https://www.scipy.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [pydub](https://github.com/jiaaro/pydub)
