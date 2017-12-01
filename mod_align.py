@@ -242,7 +242,6 @@ def align_external(args):
     try: os.mkdir('tmp')
     except : None
 
-
     sr_override = None #getopt2("-r", opts, None)
     wave_start = "0.0" #getopt2("-s", opts, "0.0")
     wave_end = None #getopt2("-e", opts, None)
